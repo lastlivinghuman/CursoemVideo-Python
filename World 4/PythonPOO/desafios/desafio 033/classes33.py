@@ -7,7 +7,8 @@ class Pessoa(ABC):
 
     def __init__(self, nome, nascimento) -> None:
         self._nome:str = nome
-        self._nascimento:int = nascimento
+        self._nascimento:int = None
+        self.nascimento = nascimento
 
     @property
     def nascimento(self) -> int:
@@ -15,7 +16,7 @@ class Pessoa(ABC):
 
     @nascimento.setter
     def nascimento(self, ano) -> None:
-        if ano < 1950 or ano > Pessoa.ano_atual:
+        if (Pessoa.ano_atual - 100) <= ano <= Pessoa.ano_atual:
             raise ValueError(f"Ano {ano} é invalido!")
         else:
             self._nascimento = ano
@@ -55,6 +56,9 @@ class Aluno(Pessoa):
 
     def add_curso(self, curso):
         if 3 <= len(curso) <= 5:
-            self.cursos_oficiais.append(curso)
+            if curso not in self.cursos_oficiais:
+                self.cursos_oficiais.append(curso)
+            else:
+                raise ValueError("O curso ja existe")
         else:
             raise ValueError("O curso deve ter entre 3 a 5 letras")

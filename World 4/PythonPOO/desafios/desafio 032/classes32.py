@@ -51,7 +51,7 @@ class ContaBancaria:
         if self.validar_senha(chave):
             print("Senha correta")
             if valor > self.__saldo:
-                print("O valor de saque desejad não esta disponivel!")
+                print("O valor de saque desejado não esta disponivel!")
             else:
                 self.__saldo -= valor
                 print(f"Saque de {valor} autorizado!")
@@ -76,3 +76,4 @@ class ContaBancaria:
             self._titular = nome
         else:
             print("senha incorreta")
+
