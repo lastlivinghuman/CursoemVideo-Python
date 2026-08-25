@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73147d4b-ff05-4024-8472-a0a5f46140eb" name="Changes" comment="Recuperação dos exercícios">
-      <change afterPath="$PROJECT_DIR$/World 4/PythonPOO/desafios/desafio 034/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/World 4/PythonPOO/desafios/desafio 034/classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/World 4/PythonPOO/desafios/desafio 038/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/World 4/PythonPOO/desafios/desafio 038/classes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,61 +59,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="3.921313720660651E-11" />
-      <entry key="MS500" value="0.009583837449489282" />
-      <entry key="S2" value="0.5498523625554628" />
-      <entry key="S5" value="1.5659420404104483" />
-      <entry key="S10" value="2.4251077958266083" />
-      <entry key="S30" value="3.601995955758763" />
-      <entry key="S60" value="4.622566621908802" />
-      <entry key="M2" value="8.107143876068902" />
-      <entry key="M5" value="22.70977124051762" />
-      <entry key="M10" value="55.193785972096656" />
-      <entry key="M15" value="96.55682580932333" />
-      <entry key="M30" value="240.39682460162365" />
-      <entry key="H1" value="492.05755497427475" />
-      <entry key="H2" value="799.3305238459749" />
-      <entry key="H4" value="1068.348566621897" />
-      <entry key="D1" value="1420.7106272051515" />
-      <entry key="W1" value="1515.569658524493" />
+      <entry key="MS100" value="1.000000000003167" />
+      <entry key="MS500" value="1.005013391044121" />
+      <entry key="S2" value="1.2787843935070566" />
+      <entry key="S5" value="1.8870385496424935" />
+      <entry key="S10" value="2.7313232126202704" />
+      <entry key="S30" value="5.67145112017839" />
+      <entry key="S60" value="10.557643235523482" />
+      <entry key="M2" value="19.12698370228644" />
+      <entry key="M5" value="43.07774624064662" />
+      <entry key="M10" value="77.15223671795907" />
+      <entry key="M15" value="103.36943047795255" />
+      <entry key="M30" value="162.16689608866463" />
+      <entry key="H1" value="267.4914130601546" />
+      <entry key="H2" value="501.3799155041479" />
+      <entry key="H4" value="942.6445887800429" />
+      <entry key="D1" value="2096.882044603923" />
+      <entry key="W1" value="2486.477445411817" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0017360208616535" />
-      <entry key="MS500" value="1.2804859052801865" />
-      <entry key="S2" value="1.7414347426429417" />
-      <entry key="S5" value="2.061248169038477" />
-      <entry key="S10" value="2.4044948797954717" />
-      <entry key="S30" value="3.290517217189083" />
-      <entry key="S60" value="4.120308663739015" />
-      <entry key="M2" value="5.570109738177262" />
-      <entry key="M5" value="8.861430651353981" />
-      <entry key="M10" value="13.83913745403793" />
-      <entry key="M15" value="19.908362997233922" />
-      <entry key="M30" value="42.05252530990418" />
-      <entry key="H1" value="82.82149128034081" />
-      <entry key="H2" value="134.8080265740778" />
-      <entry key="H4" value="181.53751534704338" />
-      <entry key="D1" value="241.02663656313055" />
-      <entry key="W1" value="254.57199123635772" />
+      <entry key="MS100" value="1.9347166796676162E-193" />
+      <entry key="MS500" value="2.8663120876735023E-39" />
+      <entry key="S2" value="2.3138269160935138E-10" />
+      <entry key="S5" value="1.3987360998704936E-4" />
+      <entry key="S10" value="0.011879059595754126" />
+      <entry key="S30" value="0.3039584392687138" />
+      <entry key="S60" value="0.9921175943566034" />
+      <entry key="M2" value="2.4494366425610177" />
+      <entry key="M5" value="8.20671893213998" />
+      <entry key="M10" value="17.636468810462244" />
+      <entry key="M15" value="25.064113595338057" />
+      <entry key="M30" value="41.224199686736796" />
+      <entry key="H1" value="66.49100872707966" />
+      <entry key="H2" value="114.34943907094303" />
+      <entry key="H4" value="196.7319618754143" />
+      <entry key="D1" value="401.9177875715685" />
+      <entry key="W1" value="467.60086353342945" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.010241891573676306" />
-      <entry key="MS500" value="0.4873327831182216" />
-      <entry key="S2" value="1.755881712885554" />
-      <entry key="S5" value="3.2422531237906482" />
-      <entry key="S10" value="4.552958630431641" />
-      <entry key="S30" value="6.740535269866525" />
-      <entry key="S60" value="8.640613717289359" />
-      <entry key="M2" value="13.60065445112829" />
-      <entry key="M5" value="31.51263046507237" />
-      <entry key="M10" value="68.97637393647406" />
-      <entry key="M15" value="116.40377323294648" />
-      <entry key="M30" value="282.37732445119303" />
-      <entry key="H1" value="574.8057810641274" />
-      <entry key="H2" value="934.0777886676148" />
-      <entry key="H4" value="1249.8446933639925" />
-      <entry key="D1" value="1661.7279317589187" />
-      <entry key="W1" value="1770.1402265652287" />
+      <entry key="MS100" value="0.05219299496468577" />
+      <entry key="MS500" value="0.5573514035382818" />
+      <entry key="S2" value="1.1136160163369382" />
+      <entry key="S5" value="1.7835830612672807" />
+      <entry key="S10" value="2.6567596212005036" />
+      <entry key="S30" value="5.887755795545656" />
+      <entry key="S60" value="11.459506805944349" />
+      <entry key="M2" value="21.490025585738703" />
+      <entry key="M5" value="51.19779951915762" />
+      <entry key="M10" value="94.70403924800637" />
+      <entry key="M15" value="128.35369547645115" />
+      <entry key="M30" value="203.3236353426548" />
+      <entry key="H1" value="333.9258844917746" />
+      <entry key="H2" value="615.6797680789102" />
+      <entry key="H4" value="1139.3335072941313" />
+      <entry key="D1" value="2498.7849272780204" />
+      <entry key="W1" value="2954.07581140855" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -143,7 +143,7 @@
     "Python.022.executor": "Run",
     "Python.Unnamed.executor": "Run",
     "Python.__main__.executor": "Run",
-    "Python.classes.executor": "Debug",
+    "Python.classes.executor": "Run",
     "Python.classes31.executor": "Run",
     "Python.e9e.executor": "Run",
     "Python.ex001.executor": "Run",
@@ -192,6 +192,56 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="CursoemVideo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.14 (CursoemVideo)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="CursoemVideo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.14 (CursoemVideo)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="CursoemVideo" />
       <option name="ENV_FILES" value="" />
