@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73147d4b-ff05-4024-8472-a0a5f46140eb" name="Changes" comment="Recuperação dos exercícios">
-      <change afterPath="$PROJECT_DIR$/World 4/PythonPOO/desafios/desafio 038/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/World 4/PythonPOO/desafios/desafio 038/classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/World 4/PythonPOO/desafios/desafio 040/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/World 4/PythonPOO/desafios/desafio 040/classes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/World 4/PythonPOO/desafios/desafio 034/classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 4/PythonPOO/desafios/desafio 034/classes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/World 4/PythonPOO/desafios/desafio 035/classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/World 4/PythonPOO/desafios/desafio 035/classes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,61 +61,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.000000000003167" />
-      <entry key="MS500" value="1.005013391044121" />
-      <entry key="S2" value="1.2787843935070566" />
-      <entry key="S5" value="1.8870385496424935" />
-      <entry key="S10" value="2.7313232126202704" />
-      <entry key="S30" value="5.67145112017839" />
-      <entry key="S60" value="10.557643235523482" />
-      <entry key="M2" value="19.12698370228644" />
-      <entry key="M5" value="43.07774624064662" />
-      <entry key="M10" value="77.15223671795907" />
-      <entry key="M15" value="103.36943047795255" />
-      <entry key="M30" value="162.16689608866463" />
-      <entry key="H1" value="267.4914130601546" />
-      <entry key="H2" value="501.3799155041479" />
-      <entry key="H4" value="942.6445887800429" />
-      <entry key="D1" value="2096.882044603923" />
-      <entry key="W1" value="2486.477445411817" />
+      <entry key="MS100" value="1.8068843662201732E-7" />
+      <entry key="MS500" value="0.048775551147283575" />
+      <entry key="S2" value="0.7888667409603574" />
+      <entry key="S5" value="1.9958597256849502" />
+      <entry key="S10" value="4.278105915144082" />
+      <entry key="S30" value="13.841278212764538" />
+      <entry key="S60" value="25.335191996519914" />
+      <entry key="M2" value="38.688407060775674" />
+      <entry key="M5" value="55.86334482857781" />
+      <entry key="M10" value="78.25670333862993" />
+      <entry key="M15" value="104.33024681135068" />
+      <entry key="M30" value="187.5690222001049" />
+      <entry key="H1" value="331.4157361548094" />
+      <entry key="H2" value="589.5024524926843" />
+      <entry key="H4" value="1050.8516378251454" />
+      <entry key="D1" value="2324.607969132277" />
+      <entry key="W1" value="2771.721015991946" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.9347166796676162E-193" />
-      <entry key="MS500" value="2.8663120876735023E-39" />
-      <entry key="S2" value="2.3138269160935138E-10" />
-      <entry key="S5" value="1.3987360998704936E-4" />
-      <entry key="S10" value="0.011879059595754126" />
-      <entry key="S30" value="0.3039584392687138" />
-      <entry key="S60" value="0.9921175943566034" />
-      <entry key="M2" value="2.4494366425610177" />
-      <entry key="M5" value="8.20671893213998" />
-      <entry key="M10" value="17.636468810462244" />
-      <entry key="M15" value="25.064113595338057" />
-      <entry key="M30" value="41.224199686736796" />
-      <entry key="H1" value="66.49100872707966" />
-      <entry key="H2" value="114.34943907094303" />
-      <entry key="H4" value="196.7319618754143" />
-      <entry key="D1" value="401.9177875715685" />
-      <entry key="W1" value="467.60086353342945" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0003654597135725" />
+      <entry key="S2" value="1.1383757224357418" />
+      <entry key="S5" value="1.479965991881248" />
+      <entry key="S10" value="1.868358724366162" />
+      <entry key="S30" value="3.6192760405306115" />
+      <entry key="S60" value="6.575382648767855" />
+      <entry key="M2" value="10.446263585445594" />
+      <entry key="M5" value="15.448612565050661" />
+      <entry key="M10" value="20.78125581116542" />
+      <entry key="M15" value="26.41116665091547" />
+      <entry key="M30" value="44.58269050134999" />
+      <entry key="H1" value="76.82414723064205" />
+      <entry key="H2" value="131.27200208641096" />
+      <entry key="H4" value="220.17680596249994" />
+      <entry key="D1" value="450.70780279786925" />
+      <entry key="W1" value="527.3972861085844" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.05219299496468577" />
-      <entry key="MS500" value="0.5573514035382818" />
-      <entry key="S2" value="1.1136160163369382" />
-      <entry key="S5" value="1.7835830612672807" />
-      <entry key="S10" value="2.6567596212005036" />
-      <entry key="S30" value="5.887755795545656" />
-      <entry key="S60" value="11.459506805944349" />
-      <entry key="M2" value="21.490025585738703" />
-      <entry key="M5" value="51.19779951915762" />
-      <entry key="M10" value="94.70403924800637" />
-      <entry key="M15" value="128.35369547645115" />
-      <entry key="M30" value="203.3236353426548" />
-      <entry key="H1" value="333.9258844917746" />
-      <entry key="H2" value="615.6797680789102" />
-      <entry key="H4" value="1139.3335072941313" />
-      <entry key="D1" value="2498.7849272780204" />
-      <entry key="W1" value="2954.07581140855" />
+      <entry key="MS100" value="3.254734420263835E-7" />
+      <entry key="MS500" value="0.07682588572477068" />
+      <entry key="S2" value="1.2536239517199361" />
+      <entry key="S5" value="3.0341001080833228" />
+      <entry key="S10" value="5.823407310225921" />
+      <entry key="S30" value="17.211962972615684" />
+      <entry key="S60" value="31.680945735959927" />
+      <entry key="M2" value="48.95250994320127" />
+      <entry key="M5" value="71.20229837818242" />
+      <entry key="M10" value="98.95971797519039" />
+      <entry key="M15" value="130.67156105680564" />
+      <entry key="M30" value="232.08725921449906" />
+      <entry key="H1" value="408.18028085621836" />
+      <entry key="H2" value="720.7209398216982" />
+      <entry key="H4" value="1270.9821354388494" />
+      <entry key="D1" value="2775.2994147695495" />
+      <entry key="W1" value="3299.1155391632997" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -130,52 +132,52 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.016.executor": "Run",
-    "Python.017.executor": "Run",
-    "Python.018.executor": "Run",
-    "Python.019.executor": "Run",
-    "Python.020.executor": "Run",
-    "Python.021.executor": "Run",
-    "Python.022.executor": "Run",
-    "Python.Unnamed.executor": "Run",
-    "Python.__main__.executor": "Run",
-    "Python.classes.executor": "Run",
-    "Python.classes31.executor": "Run",
-    "Python.e9e.executor": "Run",
-    "Python.ex001.executor": "Run",
-    "Python.ex002.executor": "Run",
-    "Python.ex003.executor": "Run",
-    "Python.ex004.executor": "Run",
-    "Python.ex021.executor": "Run",
-    "Python.ex102.executor": "Run",
-    "Python.ex106.executor": "Run",
-    "Python.ex115.executor": "Run",
-    "Python.rich001.executor": "Run",
-    "Python.rich002.executor": "Run",
-    "Python.rich003.executor": "Run",
-    "Python.rich005.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "git.auto.fetch.suggestion.counter": "1",
-    "last_opened_file_path": "C:/Users/bapti/PycharmProjects/CursoemVideo/World 4/PythonPOO/desafios",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.016.executor&quot;: &quot;Run&quot;,
+    &quot;Python.017.executor&quot;: &quot;Run&quot;,
+    &quot;Python.018.executor&quot;: &quot;Run&quot;,
+    &quot;Python.019.executor&quot;: &quot;Run&quot;,
+    &quot;Python.020.executor&quot;: &quot;Run&quot;,
+    &quot;Python.021.executor&quot;: &quot;Run&quot;,
+    &quot;Python.022.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;Python.__main__.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classes31.executor&quot;: &quot;Run&quot;,
+    &quot;Python.e9e.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex021.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex102.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex106.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex115.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rich001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rich002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rich003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rich005.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git.auto.fetch.suggestion.counter&quot;: &quot;1&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/bapti/PycharmProjects/CursoemVideo/World 4/PythonPOO/desafios&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\bapti\PycharmProjects\CursoemVideo\World 4\PythonPOO\desafios" />

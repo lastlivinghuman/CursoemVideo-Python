@@ -1,4 +1,6 @@
 from abc import ABC
+from locale import currency, setlocale, LC_ALL
+
 
 class Funcionario(ABC):
 
@@ -8,6 +10,8 @@ class Funcionario(ABC):
 
     @property
     def salario(self):
+
+
         return self.__salario
 
     @salario.setter
@@ -15,7 +19,7 @@ class Funcionario(ABC):
         if valor < 0:
             raise ValueError("Valor tem que ser maior que 0")
 
-        if valor < self.__salario:
+        elif valor < self.__salario:
             raise PermissionError("Valor não pode ser menor que o salario!")
 
         self.__salario = valor
@@ -36,7 +40,8 @@ class Gerente(Funcionario):
         return self.salario * Gerente.porcentagem_bonus/ 100
 
     def __str__(self):
-        return(f"O {self.nome} é um {__class__.__name__} e ganha R${self.salario} e tem R${self.calcular_bonus():.2f} de bonus")
+        setlocale(LC_ALL, 'Portuguese_Brazil.1252')
+        return(f"O {self.nome} é um {__class__.__name__} e ganha {currency(self.salario, grouping=True)} e tem {currency(self.calcular_bonus(), grouping=True)} de bonus")
 
 
 
