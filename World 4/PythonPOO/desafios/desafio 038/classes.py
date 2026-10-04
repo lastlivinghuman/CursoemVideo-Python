@@ -27,15 +27,14 @@ class Produto:
 
 
     def __str__(self) -> str:
-        setlocale(LC_ALL, 'Portuguese_Brazil.1252')
-        return f"{self.nome}({currency(self.preco, grouping=True)})"
+        return f"{self.nome}({formatar_moeda(self.preco)})"
 
 
 
 class Carrinho:
 
     def __init__(self):
-        self.produtos:[] = []
+        self.produtos:[Produto] = []
 
 
     @property
@@ -63,5 +62,12 @@ class Carrinho:
         for produto in self.produtos:
             texto += f"{produto}\n"
 
-        texto += f"Total: {self.total}"
+        texto += "-"*30 + "\n"
+        texto += f"Total: {formatar_moeda(self.total)}"
         return texto
+    
+    
+    
+def formatar_moeda(valor:float) -> str:
+    setlocale(LC_ALL, 'Portuguese_Brazil.1252')
+    return currency(valor, grouping=True)
